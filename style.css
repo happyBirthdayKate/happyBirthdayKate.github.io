@@ -7,6 +7,7 @@
   text-align: center;
   transition: 1s;
   transform-origin: 0;
+  padding-top: 100px;
 }
 
 .open-card {
@@ -17,7 +18,8 @@
   color: black;
   font-family: Courier;
   font-size: 12pt;
-  text-align: center;
+  text-align: left;
+  padding-left: 500px;
 }
 
 #outside-pic {
@@ -40,6 +42,7 @@
   width: 100%;
   height: 100%;
   text-align: center;
+  padding-top: 100px;
 }
 
 #inside-title {
