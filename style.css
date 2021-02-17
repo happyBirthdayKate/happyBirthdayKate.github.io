@@ -23,8 +23,8 @@
 }
 
 #outside-pic {
-  width: 150px;
-  height: 150px;
+  width: auto;
+  height: 300px;
 }
 
 #outside-help {
@@ -55,7 +55,7 @@
 
 #inside-pic {
   width: auto;
-  height: 150px;
+  height: 400px;
 }
 
 #message {
